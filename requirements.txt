@@ -1,0 +1,6 @@
+# IPv6 Toolkit -- ipv6calculator.py
+# Runtime
+customtkinter>=5.2.0          # GUI (dark mode); ipaddress/random/tkinter are stdlib
+
+# Dev / testing
+pytest>=7.0                   # run: pytest ipcal/test_ipv6calculator.py
