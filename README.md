@@ -9,9 +9,7 @@ notes and the relevant RFC references.
 > All address math uses the Python standard library (`ipaddress`) — no heavyweight
 > dependencies.
 
-<!-- Screenshot: save one as docs/screenshot.png, then uncomment the next line:
 ![IP Toolkit screenshot](docs/screenshot.png)
--->
 
 ## Features
 
