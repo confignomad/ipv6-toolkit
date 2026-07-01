@@ -1,6 +1,6 @@
 """
-IPv6 Toolkit
-------------
+IP Toolkit
+----------
 A dark-themed desktop GUI with several IPv6/IPv4 tools, selectable from the
 Tools menu. Each tool swaps the input row and shares one output box. The "≡"
 menu prints reference info into that same output box (no pop-up windows).
@@ -27,7 +27,7 @@ import tkinter as tk
 
 import customtkinter as ctk
 
-APP_TITLE = "IPv6 Toolkit"
+APP_TITLE = "IP Toolkit"
 VERSION = "0.7.0 (alpha release)"
 GITHUB_URL = "https://github.com/confignomad/ipv6-toolkit"
 

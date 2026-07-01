@@ -1,4 +1,4 @@
-# IPv6 Toolkit
+# IP Toolkit
 
 A dark-themed desktop app bundling seven small **IPv6 / IPv4 networking tools** into
 one window — subnet math, random address generation, conversions, and IPv4-in-IPv6
@@ -9,9 +9,8 @@ notes and the relevant RFC references.
 > All address math uses the Python standard library (`ipaddress`) — no heavyweight
 > dependencies.
 
-<!-- Add a screenshot to make the README pop:
-     save one as docs/screenshot.png and uncomment the line below.
-![IPv6 Toolkit screenshot](docs/screenshot.png)
+<!-- Screenshot: save one as docs/screenshot.png, then uncomment the next line:
+![IP Toolkit screenshot](docs/screenshot.png)
 -->
 
 ## Features
@@ -61,7 +60,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # 4. Run
-python ipv6calculator.py
+python ip-toolkit.py
 ```
 
 ## Tips

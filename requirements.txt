@@ -1,4 +1,4 @@
-# IPv6 Toolkit -- ipv6calculator.py
+# IP Toolkit -- ip-toolkit.py
 # Runtime
 customtkinter>=5.2.0          # GUI (dark mode); ipaddress/random/tkinter are stdlib
 
