@@ -44,8 +44,8 @@ Pick a tool from the **Tools** menu; each swaps the input row and shares one out
 
 ```bash
 # 1. Clone
-git clone https://github.com/confignomad/ipv6-toolkit.git
-cd ipv6-toolkit
+git clone https://github.com/confignomad/ip-toolkit.git
+cd ip-toolkit
 
 # 2. (Recommended) create a virtual environment
 python -m venv .venv
