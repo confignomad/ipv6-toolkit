@@ -29,7 +29,7 @@ import customtkinter as ctk
 
 APP_TITLE = "IPv6 Toolkit"
 VERSION = "0.7.0 (alpha release)"
-GITHUB_URL = "https://github.com/rdstaples"  # placeholder -- edit to your repo
+GITHUB_URL = "https://github.com/confignomad/ipv6-toolkit"
 
 # Only enumerate individual hosts when a network is this small or smaller.
 MAX_ENUMERATE = 1024
